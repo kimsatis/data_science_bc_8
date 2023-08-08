@@ -14,3 +14,6 @@ I learn a lot of stuff relate to data science skill. This bootcamp has 10 sprint
 9. Python Programming
 10. Essential Python for data analyst
 11. Dashboard
+
+
+You can file me on Linkedin https://www.linkedin.com/in/satis-boonprasert-2b6ab9280/
