@@ -1,4 +1,5 @@
-### Machine learning created
+### Machine learning created 
+### linear regression
 install.packages("caret")
 library(caret)
 ## See the Data
